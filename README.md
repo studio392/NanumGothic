@@ -23,13 +23,13 @@ Created by NAVER. (http://www.naver.com)
 **html document header in link tag:**
 
 ```html
-<link rel="stylesheet" href="https://cdn.rawgit.com/studio392/NanumGothic/daa43669/NanumGothic.css" />
+<link rel="stylesheet" href="https://cdn.rawgit.com/studio392/NanumGothic/master/NanumGothic.css" />
 ```
 
 **stylesheet document in @import:**
 
 ```css
-@import url(https://cdn.rawgit.com/studio392/NanumGothic/daa43669/NanumGothic.css);
+@import url(https://cdn.rawgit.com/studio392/NanumGothic/master/NanumGothic.css);
 ```
 
 **Adding to CSS:**
