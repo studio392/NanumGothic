@@ -6,7 +6,7 @@
  */
  
 @font-face {
- font-family: 'Nanum Gothic';
+ font-family: 'NanumGothic';
  font-weight: 200;
  src: url(./NanumGothicLight.eot);
  src: url(./NanumGothicLight.eot?#iefix) format('embedded-opentype'),
@@ -14,7 +14,7 @@
       url(./NanumGothicLight.ttf) format('truetype');
 }
 @font-face {
- font-family: 'Nanum Gothic';
+ font-family: 'NanumGothic';
  font-weight: 400;
  src: url(./NanumGothicRegular.eot);
  src: url(./NanumGothicRegular.eot?#iefix) format('embedded-opentype'),
@@ -22,7 +22,7 @@
       url(./NanumGothicRegular.ttf) format('truetype');
 }
 @font-face {
- font-family: 'Nanum Gothic';
+ font-family: 'NanumGothic';
  font-weight: 700;
  src: url(./NanumGothicBold.eot);
  src: url(./NanumGothicBold.eot?#iefix) format('embedded-opentype'),
@@ -30,7 +30,7 @@
       url(./NanumGothicBold.ttf) format('truetype');
 }
 @font-face {
- font-family: 'Nanum Gothic';
+ font-family: 'NanumGothic';
  font-weight: 800;
  src: url(./NanumGothicExtraBold.eot);
  src: url(./NanumGothicExtraBold.eot?#iefix) format('embedded-opentype'),
