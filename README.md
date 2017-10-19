@@ -36,6 +36,6 @@ Created by NAVER. (http://www.naver.com)
 
 ```css
 body {
-  font-family:'Nanum Gothic';
+  font-family:'NanumGothic';
 }
 ```
